@@ -13,7 +13,7 @@ The purpose of this repo is to teach folk how to work with Git using the command
 
 (If you're a Windows user then you'll need to install [Git for Windows](http://msysgit.github.io) that seems to come with Git BASH)
 
-1. Sign up to GitHub
+1. Sign up to [GitHub](https://github.com)
 2. Generate SSH key and add your public key to your GitHub account ([here's how](https://help.github.com/articles/generating-ssh-keys))
 
 ## Level 1: Clone the repository
