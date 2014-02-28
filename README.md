@@ -22,7 +22,7 @@ The purpose of this repo is to teach folk how to work with Git using the command
 Commands we're going to use:
 
 * `cd` - Change Directory. Used to change your current working directory.
-* `pwd` - Present Working Directory. Used to output the path of the current working directory.
+* `pwd` - Print Working Directory. Used to output the path of the current working directory.
 
 1. Open your terminal and navigate to your projects folder. For example all my work lives in the `Sites` folder:
 
