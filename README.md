@@ -18,7 +18,7 @@ The purpose of this repo is to teach folk how to work with Git using the command
 
 ## Level 1: Clone the repository
 
-Commands we're going to use
+Commands we're going to use:
 
 * `cd` - Change Directory. Used to change your current working directory.
 * `pwd` - Present Working Directory. Used to output the path of the current working directory.
