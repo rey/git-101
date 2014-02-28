@@ -8,6 +8,7 @@ The purpose of this repo is to teach folk how to work with Git using the command
 * [GitHub Bootcamp](https://help.github.com/categories/54/articles) articles
 * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model)
 * [GitHub Glossary](https://help.github.com/articles/github-glossary)
+* [Git cheat sheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf) (PDF)
 
 ## Prerequisites
 
